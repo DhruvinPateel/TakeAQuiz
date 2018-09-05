@@ -1,6 +1,6 @@
 # Take a Quiz!
 
-How much do you know about web development?
+How much do you know about web development? Try it here: https://letstakeaquiz--dhruvinpatel.repl.co/
 
 This is an interactive quiz application written in HTML, CSS, and Javascript.
 
